@@ -1,0 +1,2 @@
+# kScript
+my script
